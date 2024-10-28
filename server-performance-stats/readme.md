@@ -15,5 +15,21 @@ Goal of this project is to write a script to analyse server performance stats.
  
 
 **Stretch goal**: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+
+# Usage
+
+To use the `server-stats.sh` script, follow these steps:
+
+1. Ensure the script has execution permissions. If not, you can add them with the command:
+    ```sh
+    chmod +x server-stats.sh
+    ```
+
+2. Run the script on your Linux server using the following command:
+    ```sh
+    ./server-stats.sh
+    ```
+
 ---
 Link to roadmap.sh [server performance stats](https://roadmap.sh/projects/server-stats)
+
