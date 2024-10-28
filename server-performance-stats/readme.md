@@ -15,3 +15,5 @@ Goal of this project is to write a script to analyse server performance stats.
  
 
 **Stretch goal**: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+---
+Link to roadmap.sh [server performance stats](https://roadmap.sh/projects/server-stats)
