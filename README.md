@@ -2,7 +2,7 @@
 
 
 
-1. ✔ [Server Performance Stats Repository](https://github.com/madebydawid/devops-labs/tree/main/server-performance-stats) | [Roadhmap.sh project page](https://roadmap.sh/projects/server-stats)
+1. [Server Performance Stats Repository](https://github.com/madebydawid/devops-labs/tree/main/server-performance-stats) ✔   |  [Roadhmap.sh](https://roadmap.sh/projects/server-stats)
 2. Log Archive Tool 
 3. Nginx Log Analyser
 4. GitHub Pages Deployment
