@@ -2,7 +2,7 @@
 
 
 
-1. Server Performance Stats 
+1. Server Performance Stats ✔ [Link to project](https://github.com/madebydawid/devops-labs/tree/main/server-performance-stats)
 2. Log Archive Tool 
 3. Nginx Log Analyser
 4. GitHub Pages Deployment
