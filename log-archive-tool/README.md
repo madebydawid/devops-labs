@@ -15,6 +15,25 @@ A tool to archive old logs on a schedule, it compresses the logs and stores them
 - The tool should log the date and time of the archive to a file.
 `logs_archive_20240816_100648.tar.gz`
 
+### Scheduling the Log-Archive Tool with Cron
+
+To automate the log archiving at regular intervals, follow these steps:
+
+1. **Give execute permissions to the script:**
+   ```bash
+   chmod +x /home/username/log-archive.sh
+
+2. **Add a Cron job**: Open the crontab file:
+```bash
+crontab -e
+```
+
+3. **Schedule the script**: For example, to run the tool daily at 02:00, add the following line in crontab:
+```bash
+0 2 * * * /home/username/log-archive.sh /path/to/logs
+```
+
+
 ---
 
 
