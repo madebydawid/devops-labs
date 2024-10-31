@@ -3,7 +3,7 @@
 
 
 1. [Server Performance Stats Repository](https://github.com/madebydawid/devops-labs/tree/main/server-performance-stats) ✔   |  [Roadhmap.sh](https://roadmap.sh/projects/server-stats)
-2. [Log Archive Tool](https://github.com/madebydawid/devops-labs/tree/main/log-archive-tool) ✔ | [Roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
+2. [Log Archive Tool](https://github.com/madebydawid/Log-Archive-Tool) ✔ | [Roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
 3. Nginx Log Analyser
 4. GitHub Pages Deployment
 5. SSH Remote Server Setup
