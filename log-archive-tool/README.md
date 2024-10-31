@@ -1,19 +1,27 @@
 # Log-Archive-Tool
 A tool to archive old logs on a schedule, it compresses the logs and stores them in a new directory.
 
-# Requirements
-- The tool should run from the command line
-- Accept the log directory as an argument
-- Compress the logs
-- Store them in a new directory.
 
-### The user should be able to:
+# Installation and use
 
-- Provide the log directory as an argument when running the tool.
-`log-archive <log-directory>`
-- The tool should compress the logs in a tar.gz file and store them in a new directory.
-- The tool should log the date and time of the archive to a file.
-`logs_archive_20240816_100648.tar.gz`
+1. **Clone the Repository**
+To get started, first clone the repository and navigate into the project directory:
+```bash
+git clone https://github.com/your-repo/log-archiver
+cd log-archiver
+```
+
+2. **Make the Script Executable**
+Before running the script, ensure it has executable permissions:
+```bash
+chmod +x log-archive.sh
+```
+
+3. **Run the Script**
+Now you can run the script, providing the path to the log directory as an argument:
+```bash
+./log-archive.sh /path/to/log-directory
+```
 
 ---
 
