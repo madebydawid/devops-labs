@@ -2,9 +2,9 @@
 
 
 
-1. [Server Performance Stats Tool](https://github.com/madebydawid/devops-labs/tree/main/server-performance-stats) ✔   |  [Roadhmap.sh link](https://roadmap.sh/projects/server-stats)
+1. [Server Performance Stats Tool](https://github.com/madebydawid/devops-labs/tree/main/server-performance-stats) ✔   |  [Roadmap.sh link](https://roadmap.sh/projects/server-stats)
 2. [Log Archive Tool](https://github.com/madebydawid/Log-Archive-Tool) ✔ | [Roadmap.sh link](https://roadmap.sh/projects/log-archive-tool)
-3. [Nginx Log Analyser Tool](https://github.com/madebydawid/nginx-log-analyzer)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/nginx-log-analyser)
+3. [Nginx Log Analyzer Tool](https://github.com/madebydawid/nginx-log-analyzer)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/nginx-log-analyser)
 4. [GitHub Pages Deployment](https://github.com/madebydawid/gh-deployment-workflow)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/github-actions-deployment-workflow)
 5. SSH Remote Server Setup
 6. Static Site Server
@@ -58,4 +58,4 @@ A tool to archive old logs on a schedule, it compresses the logs and stores them
 
 You can learn more about the `tar` command [here](https://www.gnu.org/software/tar/manual/tar.html) and [here](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/)
 
-[Project can be found at roadhmap.se](https://roadmap.sh/projects/log-archive-tool)
+[Project can be found at roadmap.se](https://roadmap.sh/projects/log-archive-tool)
