@@ -6,8 +6,8 @@
 2. [Log Archive Tool](https://github.com/madebydawid/Log-Archive-Tool) ✔ | [Roadmap.sh link](https://roadmap.sh/projects/log-archive-tool)
 3. [Nginx Log Analyzer Tool](https://github.com/madebydawid/nginx-log-analyzer)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/nginx-log-analyser)
 4. [GitHub Pages Deployment](https://github.com/madebydawid/gh-deployment-workflow)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/github-actions-deployment-workflow)
-5. SSH Remote Server Setup
-6. Static Site Server
+5. [SSH Remote Server Setup](https://github.com/madebydawid/ssh-remote-server-setup)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/ssh-remote-server-setup)
+6. [Static Site Server](https://github.com/madebydawid/static-site-server)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/static-site-server)
 7. Basic DNS Setup
 8. Simple Monitoring
 9. Dummy Systemd Service
