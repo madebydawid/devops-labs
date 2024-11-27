@@ -9,7 +9,7 @@
 5. [SSH Remote Server Setup](https://github.com/madebydawid/ssh-remote-server-setup)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/ssh-remote-server-setup)
 6. [Static Site Server](https://github.com/madebydawid/static-site-server)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/static-site-server)
 7. Basic DNS Setup
-8. Simple Monitoring
+8. [Simple Monitoring](https://github.com/madebydawid/netdata-dashboard)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/simple-monitoring-dashboard)
 9. Dummy Systemd Service
 10. Basic Dockerfile
 11. EC2 Instance
