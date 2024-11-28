@@ -10,7 +10,7 @@
 6. [Static Site Server](https://github.com/madebydawid/static-site-server)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/static-site-server)
 7. Basic DNS Setup
 8. [Simple Monitoring](https://github.com/madebydawid/netdata-dashboard)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/simple-monitoring-dashboard)
-9. Dummy Systemd Service
+9. [Dummy Systemd Service](https://github.com/madebydawid/Dummy-Systemd-Service)  ✔ | [Roadmap.sh link](https://roadmap.sh/projects/dummy-systemd-service)
 10. Basic Dockerfile
 11. EC2 Instance
 12. Configuration Management
